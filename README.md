@@ -1,70 +1,95 @@
-# Getting Started with Create React App
+# 🎓 Student Placement Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React-based web application to manage student placement records. This project allows users to add, edit, delete, search, and track students along with their CGPA, skills, and placement status.
 
-## Available Scripts
+## 🚀 Live Demo
 
-In the project directory, you can run:
+**Live Website:** https://student-placement-tracker-ten.vercel.app
 
-### `npm start`
+## 📂 GitHub Repository
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Repository:** https://github.com/AnushaPolagani/student-placement-tracker
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## ✨ Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* ➕ Add new student records
+* ✏️ Edit existing student details
+* 🗑️ Delete student records
+* 🔍 Search students by name
+* 💾 Data persistence using Local Storage
+* 📊 Dashboard showing:
 
-### `npm run build`
+  * Total Students
+  * Placed Students
+  * Not Placed Students
+* ⭐ Placement eligibility based on CGPA
+* 📱 Clean and responsive user interface
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠️ Technologies Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* React.js
+* JavaScript (ES6)
+* HTML5
+* CSS3
+* Local Storage
+* Git
+* GitHub
+* Vercel
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📦 Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Clone the repository:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+git clone https://github.com/AnushaPolagani/student-placement-tracker.git
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Go to the project folder:
 
-## Learn More
+```bash
+cd student-placement-tracker
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Install dependencies:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm install
+```
 
-### Code Splitting
+Start the development server:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+npm start
+```
 
-### Analyzing the Bundle Size
+The application will run at:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```text
+http://localhost:3000
+```
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 📸 Project Preview
 
-### Advanced Configuration
+*Screenshots will be added here.*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 👩‍💻 Developer
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+**Anusha Polagani**
 
-### `npm run build` fails to minify
+GitHub: https://github.com/AnushaPolagani
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## 📄 License
+
+This project is created for learning and portfolio purposes.
