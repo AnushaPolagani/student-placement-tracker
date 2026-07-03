@@ -1,6 +1,9 @@
 # 🎓 Student Placement Tracker
 
-A React-based web application to manage student placement records. This project allows users to add, edit, delete, search, and track students along with their CGPA, skills, and placement status.
+## 🎯 About the Project
+A React-based CRUD web application designed to efficiently manage student placement records. The system allows users to add, edit, delete, search, and track students with details such as CGPA, skills, and placement status.
+
+This project demonstrates strong frontend development skills, including component-based architecture, state management using React hooks, and real-time UI updates to deliver an interactive and responsive user experience.
 
 ## 🚀 Live Demo
 
@@ -68,17 +71,23 @@ Start the development server:
 npm start
 ```
 
-The application will run at:
+## 🚀 Local Setup
 
-```text
+The application runs locally at:
+
 http://localhost:3000
-```
-
 ---
 
-## 📸 Project Preview
+## 📸 Screenshots
 
-*Screenshots will be added here.*
+### 📊 Dashboard View
+![Dashboard](./Screenshots/dashboard.png)
+
+### 📝 Add Student Form
+![Form](./Screenshots/form.png)
+
+### 📋 Student List View
+![Student List](./Screenshots/list.png)
 
 ---
 
@@ -92,4 +101,4 @@ GitHub: https://github.com/AnushaPolagani
 
 ## 📄 License
 
-This project is created for learning and portfolio purposes.
+This project is built for learning and portfolio demonstration purposes.
